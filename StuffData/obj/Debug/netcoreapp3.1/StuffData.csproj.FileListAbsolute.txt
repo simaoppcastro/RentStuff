@@ -1,0 +1,8 @@
+C:\Users\simao\Desktop\StuffData\bin\Debug\netcoreapp3.1\StuffData.deps.json
+C:\Users\simao\Desktop\StuffData\bin\Debug\netcoreapp3.1\StuffData.dll
+C:\Users\simao\Desktop\StuffData\obj\Debug\netcoreapp3.1\StuffData.csprojAssemblyReference.cache
+C:\Users\simao\Desktop\StuffData\obj\Debug\netcoreapp3.1\StuffData.AssemblyInfoInputs.cache
+C:\Users\simao\Desktop\StuffData\obj\Debug\netcoreapp3.1\StuffData.AssemblyInfo.cs
+C:\Users\simao\Desktop\StuffData\bin\Debug\netcoreapp3.1\StuffData.runtimeconfig.json
+C:\Users\simao\Desktop\StuffData\bin\Debug\netcoreapp3.1\StuffData.runtimeconfig.dev.json
+C:\Users\simao\Desktop\StuffData\obj\Debug\netcoreapp3.1\StuffData.genruntimeconfig.cache
