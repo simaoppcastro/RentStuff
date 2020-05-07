@@ -3648,11 +3648,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj",
+      "projectUniqueName": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj",
       "projectName": "StuffData",
-      "projectPath": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj",
+      "projectPath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj",
       "packagesPath": "C:\\Users\\simao\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\simao\\Desktop\\StuffData\\obj\\",
+      "outputPath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff.csproj": {}
+    "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\RentStuff.csproj": {}
   },
   "projects": {
-    "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff.csproj": {
+    "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\RentStuff.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff.csproj",
+        "projectUniqueName": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\RentStuff.csproj",
         "projectName": "RentStuff",
-        "projectPath": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff.csproj",
+        "projectPath": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\RentStuff.csproj",
         "packagesPath": "C:\\Users\\simao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simao\\Desktop\\RentStuff\\obj\\",
+        "outputPath": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj": {
-                "projectPath": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj"
+              "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj": {
+                "projectPath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj": {
+    "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj",
+        "projectUniqueName": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj",
         "projectName": "StuffData",
-        "projectPath": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj",
+        "projectPath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj",
         "packagesPath": "C:\\Users\\simao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\simao\\Desktop\\StuffData\\obj\\",
+        "outputPath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

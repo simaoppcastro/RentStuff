@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k0kcjaN485Zvyfk4pq/Lw1cctA0lAAEpv2UF07qhM6O3xFnuAcsOCPoRUQaxFnptkhnjs37jiMD5fCQIUD+cOA==",
+  "dgSpecHash": "U3Do+9dDf/xTN16R+YymKu2jfGW5occ6faxKi4dVhhLRdCI72Vv0M1mFiVLA3lxqlFjXEP+5vkT1Sfm5XfF/OA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simao\\Desktop\\StuffData\\StuffData.csproj",
+  "projectFilePath": "C:\\Users\\simao\\Desktop\\RentStuff\\StuffData\\StuffData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simao\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\simao\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.2\\microsoft.entityframeworkcore.2.1.2.nupkg.sha512",

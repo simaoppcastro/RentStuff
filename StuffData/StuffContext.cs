@@ -6,6 +6,7 @@ namespace StuffData
 {
     public class StuffContext : DbContext 
     {
+        public StuffContext() { }
         public StuffContext(DbContextOptions options) : base(options) { }
         public DbSet<Client> Clients { get; set; }
 

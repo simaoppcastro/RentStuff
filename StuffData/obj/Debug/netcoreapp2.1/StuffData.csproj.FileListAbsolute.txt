@@ -1,0 +1,12 @@
+C:\Users\simao\Desktop\RentStuff\StuffData\bin\Debug\netcoreapp2.1\StuffData.deps.json
+C:\Users\simao\Desktop\RentStuff\StuffData\bin\Debug\netcoreapp2.1\StuffData.runtimeconfig.json
+C:\Users\simao\Desktop\RentStuff\StuffData\bin\Debug\netcoreapp2.1\StuffData.runtimeconfig.dev.json
+C:\Users\simao\Desktop\RentStuff\StuffData\bin\Debug\netcoreapp2.1\StuffData.dll
+C:\Users\simao\Desktop\RentStuff\StuffData\bin\Debug\netcoreapp2.1\StuffData.pdb
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.csprojAssemblyReference.cache
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.csproj.CoreCompileInputs.cache
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.AssemblyInfoInputs.cache
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.AssemblyInfo.cs
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.dll
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.pdb
+C:\Users\simao\Desktop\RentStuff\StuffData\obj\Debug\netcoreapp2.1\StuffData.genruntimeconfig.cache

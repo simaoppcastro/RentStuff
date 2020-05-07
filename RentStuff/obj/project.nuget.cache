@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9LkV9YOOd1CjjUuqyR1gw8aiOIQGpP7gXYoUUP6cKVbEyIYIi85MKFfbaMavblt2DphJuIvDxj2851M9PmqGYA==",
+  "dgSpecHash": "aaSt82OyNklpmPNchCNXxjjHMpqlYLEirHBHPrgsnYLHIIM29FIBq5dNUza2o0/hwQqqpLxg8KxPvgkRcyzWpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff.csproj",
+  "projectFilePath": "C:\\Users\\simao\\Desktop\\RentStuff\\RentStuff\\RentStuff.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\simao\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\simao\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

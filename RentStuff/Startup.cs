@@ -36,7 +36,7 @@ namespace RentStuff
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<StuffContext>(options
-                => options.UseSqlServer(Configuration.GetConnectionString("LibraryConnection")));
+                => options.UseSqlServer(Configuration.GetConnectionString("StuffConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
